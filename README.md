@@ -99,8 +99,6 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailender-18a18528a)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House

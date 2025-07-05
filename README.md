@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shailendra</h1>
-<h3 align="center">A Passionate Developer | Learner | Innovator</h3>
+<h3 align="center">A Passionate Engineering Student| Learner | Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer;Data+Science+Learner;Open+Source+Contributor;Always+Learning+Something+New!" alt="Typing SVG" />

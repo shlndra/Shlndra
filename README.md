@@ -42,7 +42,7 @@
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### ☁️ Cloud Hosting & Deployment

@@ -12,7 +12,7 @@
 - 🔭 Currently building projects in **Flask, Node.js, and Flutter**  
 - 🌱 Learning **Data Structures in Java** and **Machine Learning**  
 - 💬 Ask me about: `Python`, `Flask`, `HTML/CSS`, `JavaScript`, `SQL`, `Git`, `VS Code`, `Linux`  
-- 📫 How to reach me: **shailendra.ahir7@gmail.com**  
+- 📫 How to reach me: **sk023018@gmail.com**  
 - ⚡ Fun Fact: I love solving real-world problems with code 🧠💻
 
 ---

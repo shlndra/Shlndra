@@ -11,8 +11,8 @@
 - 🎓 B.Tech CSE (AI & ML) student  
 - 🔭 Currently building projects in **Flask, Node.js, and Flutter**  
 - 🌱 Learning **Data Structures in Java** and **Machine Learning**  
-- 💬 Ask me about: `Python`, `Flask`, `HTML/CSS`, `JavaScript`, `SQL`, `Git`, `VS Code`, `Linux`  
-- 📫 How to reach me: **shailendra.ahir7@gmail.com**  
+- 💬 Ask me about: `Python`, `Flask`, `HTML/CSS`, `JavaScript`, `SQL`, `Git`, `VS Code`, `Machine Learning`  
+- 📫 How to reach me: **sk0230148@gmail.com**  
 - ⚡ Fun Fact: I love solving real-world problems with code 🧠💻
 
 ---
@@ -46,7 +46,6 @@
 ### 🚀 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shlndra)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=firefox&logoColor=white)](https://shlndra.github.io/portfolio) <!-- Optional -->
 
 ---
 

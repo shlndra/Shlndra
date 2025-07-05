@@ -4,6 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer;Data+Science+Learner;Open+Source+Contributor;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
+<img src="https://raw.githubusercontent.com/shlndra/shlndra/main/banner.png" alt="GitHub Banner" width="100%" />
+
 
 ---
 

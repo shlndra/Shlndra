@@ -16,7 +16,7 @@
 - 🌱 Learning **Data Structures in Java**, **Advanced ML**, and **System Design**
 - 💬 Ask me about:  
   `Python`, `Flask`, `HTML/CSS`, `SQL`, `Git`, `VS Code`, `Machine Learning`, `React`
-- 📫 Reach me at: **sk0230148@gmail.com**
+- 📫 Reach me at: **reachoutshailender@gmail.com**
 - ⚡ Fun Fact: I love solving real-world problems with code 🧠💻
 
 ---

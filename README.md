@@ -95,6 +95,7 @@
 - Advanced Machine Learning
 - Flutter App Development
 - Backend with Django
+- React
 
 ---
 

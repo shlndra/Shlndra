@@ -15,7 +15,7 @@
 - 🔭 Currently building projects using **Flask, Node.js, and Flutter**
 - 🌱 Learning **Data Structures in Java**, **Advanced ML**, and **System Design**
 - 💬 Ask me about:  
-  `Python`, `Flask`, `HTML/CSS`, `SQL`, `Git`, `VS Code`, `AWS`, `Machine Learning`, `React`
+  `Python`, `Flask`, `HTML/CSS`,`JavaScript`, `SQL`, `Git`, `VS Code`, `AWS`, `Machine Learning`, `React`
 - 📫 Reach me at: **reachoutshailender@gmail.com**
 - ⚡ Fun Fact: I love solving real-world problems with code 🧠💻
 
